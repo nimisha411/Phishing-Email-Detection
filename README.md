@@ -38,7 +38,7 @@ python phishing_detection.py
 
 ## Phishing Attack
 
-![Phishing Attack](image/Phishing-attack.png)
+![Phishing Attack](images/Phishing-attack.png)
 
 ## Author
 
