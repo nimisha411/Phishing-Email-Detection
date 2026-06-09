@@ -1,5 +1,3 @@
-# Phishing-Email-Detection
-
 # Phishing Email Detection
 
 ## Overview
