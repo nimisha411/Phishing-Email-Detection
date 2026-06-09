@@ -36,10 +36,9 @@ Suspicious Keywords: ['verify', 'bank', 'account', 'immediately']
 
 python phishing_detection.py
 
+## Phishing Attack
 
-## Project Architecture
-
-![Architecture](images/architecture.png)
+![Phishing Attack](image/Phishing-attack.png)
 
 ## Author
 
